@@ -1,0 +1,1 @@
+web: python messenger_bot.py
