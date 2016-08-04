@@ -15,3 +15,7 @@ Page Link : https://www.facebook.com/rasenshurikenbarrage
 </div>
 
 ## Try [it](https://www.facebook.com/rasenshurikenbarrage) :D
+
+# Credits
+
+[Pierre-David Bélanger](https://github.com/pierredavidbelanger) : For ChatterBotAPI
